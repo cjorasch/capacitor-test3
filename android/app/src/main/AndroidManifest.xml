@@ -54,4 +54,7 @@
     <uses-feature android:name="android.hardware.location.gps" />
     <!-- Network API -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Contacts API -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    
 </manifest>

@@ -60,6 +60,10 @@ window.customElements.define('capacitor-welcome', class extends HTMLElement {
       <p>
       <a onclick="return deviceGetInfo();" href="#">Get Info</a>
     </p> 
+    <h2>Android Contacts</h2>
+    <p>
+    <a onclick="return customCall();" href="#">customCall</a>
+  </p> 
         <h2>Contacts</h2>
         <p>
           <a onclick="return authorizationStatus();" href="#">Authorization Status</a>
@@ -116,10 +120,20 @@ window.customElements.define('capacitor-welcome', class extends HTMLElement {
 var Contacts = Capacitor.Plugins.Contacts;
 var Testing = Capacitor.Plugins.Testing;
 var Device = Capacitor.Plugins.Device;
+var ContactsAndroidPlugin = Capacitor.Plugins.ContactsAndroidPlugin;
+console.log('ContactsAndroidPlugin', ContactsAndroidPlugin);
 
 function deviceGetInfo() {
   return showResult(Device.getInfo());
 }
+
+// ContactsAndroidPlugin
+
+function customCall() {
+  return showResult(ContactsAndroidPlugin.customCall());
+}
+
+// Contacts
 
 if (Contacts) {
   Contacts.addListener('contactStoreDidChange', data => console.log("contactStoreDidChange", data))

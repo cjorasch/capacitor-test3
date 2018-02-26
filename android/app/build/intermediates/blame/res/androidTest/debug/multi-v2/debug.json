@@ -553,7 +553,7 @@
                     }
                 },
                 {
-                    "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/values/values.xml",
+                    "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,16",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

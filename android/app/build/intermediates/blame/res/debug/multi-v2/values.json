@@ -112,6 +112,23 @@
                     }
                 },
                 {
+                    "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,148,253,315,349,393",
+                        "endColumns": "45,46,50,61,33,43,78",
+                        "endOffsets": "96,143,194,310,344,388,467"
+                    },
+                    "to": {
+                        "startLines": "118,119,120,767,771,778,779",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "6234,6280,6327,64038,64343,65256,65300",
+                        "endColumns": "45,46,50,61,33,43,78",
+                        "endOffsets": "6275,6322,6373,64095,64372,65295,65374"
+                    }
+                },
+                {
                     "source": "/Users/cjorasch/Projects/capacitor-test3/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "4,11,18",
@@ -128,23 +145,6 @@
                         "endLines": "797,802,805",
                         "endColumns": "12,12,12",
                         "endOffsets": "66601,66841,66994"
-                    }
-                },
-                {
-                    "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,101,148,253,315,349,393",
-                        "endColumns": "45,46,50,61,33,43,78",
-                        "endOffsets": "96,143,194,310,344,388,467"
-                    },
-                    "to": {
-                        "startLines": "118,119,120,767,771,778,779",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "6234,6280,6327,64038,64343,65256,65300",
-                        "endColumns": "45,46,50,61,33,43,78",
-                        "endOffsets": "6275,6322,6373,64095,64372,65295,65374"
                     }
                 },
                 {

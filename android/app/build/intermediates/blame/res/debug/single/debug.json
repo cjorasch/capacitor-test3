@@ -41,7 +41,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-xhdpi-v4/ic_launcher.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-xhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -377,7 +377,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-hdpi-v4/ic_launcher.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-hdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -521,7 +521,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4_ic_launcher_round.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-hdpi-v4/ic_launcher_round.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-hdpi-v4/ic_launcher_round.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
@@ -701,7 +701,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-xxhdpi-v4/ic_launcher.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-xxhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -1025,7 +1025,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4_ic_launcher_round.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-mdpi-v4/ic_launcher_round.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-mdpi-v4/ic_launcher_round.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
@@ -1101,7 +1101,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4_ic_launcher_round.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-xhdpi-v4/ic_launcher_round.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-xhdpi-v4/ic_launcher_round.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-land-mdpi_splash.png.flat",
@@ -1177,7 +1177,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/layout_bridge_layout_main.xml.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/layout/bridge_layout_main.xml"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/layout/bridge_layout_main.xml"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1201,7 +1201,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4_ic_launcher_round.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-xxxhdpi-v4/ic_launcher_round.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-xxxhdpi-v4/ic_launcher_round.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1489,7 +1489,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_ic_launcher_round.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-xxhdpi-v4/ic_launcher_round.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-xxhdpi-v4/ic_launcher_round.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1713,7 +1713,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-xxxhdpi-v4/ic_launcher.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-xxxhdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1833,7 +1833,7 @@
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4_ic_launcher.png.flat",
-        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.62.aar/e1e014ac882288603856921e3f98a6a7/res/mipmap-mdpi-v4/ic_launcher.png"
+        "source": "/Users/cjorasch/.gradle/caches/transforms-1/files-1.1/capacitor-android-0.0.108.aar/445d1dd1a679d7d62dd2e21cd9cbc57b/res/mipmap-mdpi-v4/ic_launcher.png"
     },
     {
         "merged": "/Users/cjorasch/Projects/capacitor-test3/android/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
