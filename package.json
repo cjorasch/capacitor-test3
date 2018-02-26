@@ -1,7 +1,6 @@
 {
-  "name": "capacitor-starter",
+  "name": "capacitor-testing",
   "version": "1.0.0",
-  "description": "A simple starter project for a Capacitor app",
   "main": "index.js",
   "scripts": {
     "build": "echo \"Build complete\"",
@@ -10,28 +9,8 @@
     "copy": "capacitor copy ios",
     "open": "capacitor open ios"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ionic-team/capacitor-starter.git"
-  },
-  "keywords": [
-    "html5",
-    "cordova",
-    "capacitor",
-    "cross-platform",
-    "javascript",
-    "swift",
-    "android",
-    "ios"
-  ],
-  "author": "Ionic Team <hi@ionicframework.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ionic-team/capacitor-starter/issues"
-  },
-  "homepage": "https://github.com/ionic-team/capacitor-starter#readme",
   "dependencies": {
-    "@capacitor/cli": "0.0.102",
-    "@capacitor/core": "0.0.102"
+    "@capacitor/cli": "0.0.109",
+    "@capacitor/core": "0.0.109"
   }
 }

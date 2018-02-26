@@ -8,6 +8,8 @@ use_frameworks!
 
 target 'App' do
   pod 'Capacitor'
+  pod 'CordovaPlugins', :path => '../../node_modules/@capacitor/cli/assets/capacitor-cordova-ios-plugins'
+  pod 'CordovaPluginsResources', :path => '../../node_modules/@capacitor/cli/assets/capacitor-cordova-ios-plugins'
   
   
 end

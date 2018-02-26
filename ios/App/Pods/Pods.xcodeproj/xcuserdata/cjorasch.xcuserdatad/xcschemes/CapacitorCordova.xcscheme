@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2467181E4D39CD3062A74E7523A28460"
+               BlueprintIdentifier = "2E676FA66C1C04DA3B04FAF0F01DC655"
                BuildableName = "Cordova.framework"
                BlueprintName = "CapacitorCordova"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2467181E4D39CD3062A74E7523A28460"
+            BlueprintIdentifier = "2E676FA66C1C04DA3B04FAF0F01DC655"
             BuildableName = "Cordova.framework"
             BlueprintName = "CapacitorCordova"
             ReferencedContainer = "container:Pods.xcodeproj">

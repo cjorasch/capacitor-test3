@@ -133,7 +133,7 @@ public class Contacts: CAPPlugin {
     
     // Get the current authorization status for contacts
     @objc func authorizationStatus(_ call: CAPPluginCall) {
-        let entityTypeInt = call.getInt("entityType", defaultValue:nil) ?? CNEntityType.contacts.rawValue
+        let entityTypeInt = call.getInt("entityType") ?? CNEntityType.contacts.rawValue
         let entityType = CNEntityType(rawValue:entityTypeInt)
         let status = CNContactStore.authorizationStatus(for:entityType!)
         call.success([

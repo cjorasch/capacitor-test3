@@ -33,17 +33,17 @@ public class Testing: CAPPlugin {
         print("str3 specified", call.options.index(forKey: "str3") != nil) // null => true
         print("str4 specified", call.options.index(forKey: "str4") != nil) // undefined => false
         print("str5 specified", call.options.index(forKey: "str5") != nil) // unspecified => false
-        print("str2bool", call.getBool("str2", defaultValue: nil) as Any) // "abc" => nil
-        print("str2int", call.getInt("str2", defaultValue: nil) as Any) // "abc" => nil
-        print("bool1", call.getBool("bool1", defaultValue: nil) as Any) // false => false
-        print("bool2", call.getBool("bool2", defaultValue: nil) as Any) // true => true
-        print("num1", call.getInt("num1", defaultValue: nil) as Any) // 0 => 0
-        print("num2", call.getInt("num2", defaultValue: nil) as Any) // 123 => 123
-        print("num3", call.getInt("num3", defaultValue: nil) as Any) // 123.456 => nil
+        print("str2bool", call.getBool("str2") as Any) // "abc" => nil
+        print("str2int", call.getInt("str2") as Any) // "abc" => nil
+        print("bool1", call.getBool("bool1") as Any) // false => false
+        print("bool2", call.getBool("bool2") as Any) // true => true
+        print("num1", call.getInt("num1") as Any) // 0 => 0
+        print("num2", call.getInt("num2") as Any) // 123 => 123
+        print("num3", call.getInt("num3") as Any) // 123.456 => nil
         print("num3float", call.get("num3", Float.self) as Any) // 123.456 => 123.456001
         print("num3double", call.get("num3", Double.self) as Any) // 123.456 => 123.456
         print("num2str", call.getString("num2") as Any) // 123 => nil
-        print("num2bool", call.getBool("num2", defaultValue: nil) as Any) // 123 => nil
+        print("num2bool", call.getBool("num2") as Any) // 123 => nil
         
         // print("arr1", call.getArray("arr1", [Int:Any].self) as Any)
         print("arr1", call.getArray("arr1", Int.self) as Any)

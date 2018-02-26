@@ -21,6 +21,7 @@
 #import "CDVScreenOrientationDelegate.h"
 #import "CDVUIWebViewDelegate.h"
 #import "CDVUserAgentUtil.h"
+#import "CDVViewController.h"
 
 FOUNDATION_EXPORT double CordovaVersionNumber;
 FOUNDATION_EXPORT const unsigned char CordovaVersionString[];
