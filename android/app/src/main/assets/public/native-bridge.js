@@ -5,7 +5,12 @@
 
   var capacitor = Capacitor;
 
-  capacitor.DEBUG = typeof capacitor.debug === 'undefined' ? true : capacitor.DEBUG;
+  // Export Cordova if not defined
+  win.cordova = win.cordova || {};
+
+  capacitor.Plugins = capacitor.Plugins || {};
+  
+  capacitor.DEBUG = typeof capacitor.DEBUG === 'undefined' ? true : capacitor.DEBUG;
 
   // keep a collection of callbacks for native response data
   var calls = {};
@@ -141,9 +146,9 @@
         if (typeof storedCall.callback === 'function') {
           // callback
           if (result.success) {
-            storedCall.callback(null, result.data);
+            storedCall.callback(result.data);
           } else {
-            storedCall.callback(result.error, null);
+            storedCall.callback(null, result.error);
           }
 
         } else if (typeof storedCall.resolve === 'function') {
@@ -223,6 +228,10 @@
   capacitor.handleError = function(error) {
     console.error(error);
 
+    if (!Capacitor.DEBUG) {
+      return;
+    }
+
     if(!errorModal) {
       errorModal = makeErrorModal(error);
     }
@@ -297,7 +306,9 @@
     });
   }
 
-  window.onerror = capacitor.handleWindowError;
+  if (Capacitor.DEBUG) {
+    window.onerror = capacitor.handleWindowError;
+  }
 
   function injectCSS() {
     var css = `
@@ -448,6 +459,10 @@
 
   function updateErrorModal(error) {
     if(!errorModal) { return; }
+
+    if (typeof error === 'string') {
+      return;
+    }
 
     lastError = error;
 

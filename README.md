@@ -24,7 +24,7 @@ Update the npm modules.  `update` updates core plugins and capacitor libraries.
 
 ```bash
 npm install
-npx capacitor update ios?
+npx capacitor update
 ```
 
 You should run this command periodically to ensure you have the latest versions of CocoaPods dependencies.
