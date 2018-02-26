@@ -6,7 +6,9 @@
   "scripts": {
     "build": "echo \"Build complete\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "capacitor": "capacitor"
+    "capacitor": "capacitor",
+    "copy": "capacitor copy ios",
+    "open": "capacitor open ios"
   },
   "repository": {
     "type": "git",
@@ -29,7 +31,7 @@
   },
   "homepage": "https://github.com/ionic-team/capacitor-starter#readme",
   "dependencies": {
-    "@capacitor/cli": "latest",
-    "@capacitor/core": "latest"
+    "@capacitor/cli": "0.0.102",
+    "@capacitor/core": "0.0.102"
   }
 }
