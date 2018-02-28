@@ -6,6 +6,9 @@ import com.getcapacitor.Plugin;
 import com.getcapacitor.PluginCall;
 import com.getcapacitor.PluginMethod;
 
+// Manifest
+//      <uses-permission android:name="android.permission.READ_CONTACTS" />
+
 // https://github.com/apache/cordova-plugin-contacts/blob/master/src/android/ContactAccessorSdk5.java
 // https://developer.android.com/guide/topics/providers/contacts-provider.html
 
